@@ -80,6 +80,7 @@ Info: Applying configuration version '1526403998'
 Notice: Finished catalog run in 0.01 seconds
 
 
+rpm -qi httpd
 
 ******************************************from client machine ***************************************
 
